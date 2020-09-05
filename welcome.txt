@@ -7,3 +7,4 @@ checkout to add-commit branch
 
 Line X
 Line Y
+Line Z
